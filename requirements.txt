@@ -1,0 +1,4 @@
+# 보관 코드의 SDK 계열을 유지했습니다. 실제 API 호환 버전은 미확인입니다.
+python-dotenv
+requests
+ibm-watson-machine-learning
