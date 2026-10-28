@@ -8,7 +8,7 @@ LLM 대화, 음성 인식, 음성 합성 연동 코드를 보관하는 저장소
 
 - [mumu_legacy.py](mumu_legacy.py): 개별 보관 소스를 한 파일로 재구성한 통합본
 - [mumu/](mumu/): 설정, 프롬프트, 대화 관리와 외부 API를 분리한 모듈별 정리본
-- [코드 설명](docs/CODE_GUIDE.md): 처리 흐름, 함수 역할, 응답 처리와 예외 처리
+- [코드 설명](docs/CODE_GUIDE.md): 처리 흐름, 함수 역할, 응답 처리 및 예외 처리
 - [tests/](tests/): 외부 API와 음성 장치 없이 실행하는 테스트
 
 ```text
